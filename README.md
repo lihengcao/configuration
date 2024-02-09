@@ -1,5 +1,5 @@
 # just a config repo/some notes
-maybe be outdated
+could be outdated
 
 # Mac
 
